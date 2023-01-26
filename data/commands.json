@@ -91,7 +91,7 @@
   },
   {
     "title": "skipplay",
-    "desc": "Play the track immediately.",
+    "desc": "Play the track immediately and clear the queue.",
     "cat": "music"
   },
   {
