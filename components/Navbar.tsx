@@ -154,27 +154,17 @@ const Navbar = () => {
                       {item.label}
                     </LinkItem>
                   ))}
-
                   <Divider />
-
-                  <HStack
-                    alignItems="center"
-                    justifyContent="center"
-                    spacing={4}
+                  <Button
+                    as={NextLink}
+                    href="/invite"
+                    color="white"
+                    bg="pink.400"
+                    _hover={{ bg: 'pink.300' }}
+                    colorScheme="pink"
                   >
-                    <ToggleThemeButton />
-
-                    <Button
-                      as={NextLink}
-                      href="/invite"
-                      color="white"
-                      bg="pink.400"
-                      _hover={{ bg: 'pink.300' }}
-                      colorScheme="pink"
-                    >
-                      Invite Sana
-                    </Button>
-                  </HStack>
+                    Invite Sana
+                  </Button>
                 </VStack>
               </DrawerBody>
             </DrawerContent>
