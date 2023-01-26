@@ -27,6 +27,7 @@ const styles = {
   global: (props: any) => ({
     '&::-webkit-scrollbar': {
       w: '3',
+      bg: 'blackAlpha.100',
     },
     '&::-webkit-scrollbar-thumb': {
       borderRadius: 'full',
