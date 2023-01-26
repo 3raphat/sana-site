@@ -1,0 +1,202 @@
+[
+  {
+    "title": "247",
+    "desc": "Toggle the bot to stay 24/7 in the voice channel.",
+    "cat": "music"
+  },
+  {
+    "title": "clear",
+    "desc": "Clears the current queue.",
+    "cat": "music"
+  },
+  {
+    "title": "import",
+    "desc": "Play a local file in your voice channel.",
+    "cat": "music"
+  },
+  {
+    "title": "leave",
+    "desc": "Disconnects from the voice channel.",
+    "cat": "music"
+  },
+  {
+    "title": "loop",
+    "desc": "Changes the looping type.",
+    "cat": "music"
+  },
+  {
+    "title": "lyrics",
+    "desc": "Display the lyrics of the song.",
+    "cat": "music"
+  },
+  {
+    "title": "next",
+    "desc": "Play this track next in queue.",
+    "cat": "music"
+  },
+  {
+    "title": "nowplaying",
+    "desc": "Displays the current playing song.",
+    "cat": "music"
+  },
+  {
+    "title": "pause",
+    "desc": "Pauses the current playing song.",
+    "cat": "music"
+  },
+  {
+    "title": "play",
+    "desc": "Play a song in your voice channel.",
+    "cat": "music"
+  },
+  {
+    "title": "queue",
+    "desc": "Displays the current queue of tracks.",
+    "cat": "music"
+  },
+  {
+    "title": "remove",
+    "desc": "Remove a specific song.",
+    "cat": "music"
+  },
+  {
+    "title": "replay",
+    "desc": "Replay the current playing song.",
+    "cat": "music"
+  },
+  {
+    "title": "resume",
+    "desc": "Resume the current paused song.",
+    "cat": "music"
+  },
+  {
+    "title": "search",
+    "desc": "Searches for input and returns a list of results for you to pick from.",
+    "cat": "music"
+  },
+  {
+    "title": "seek",
+    "desc": "Seeks the playing track to the specified timestamp.",
+    "cat": "music"
+  },
+  {
+    "title": "shuffle",
+    "desc": "Shuffles the queue.",
+    "cat": "music"
+  },
+  {
+    "title": "skip",
+    "desc": "Skip the current song.",
+    "cat": "music"
+  },
+  {
+    "title": "skipplay",
+    "desc": "Play the track immediately.",
+    "cat": "music"
+  },
+  {
+    "title": "volume",
+    "desc": "Change the volume of the player.",
+    "cat": "music"
+  },
+  {
+    "title": "help",
+    "desc": "Displays the help menu.",
+    "cat": "info"
+  },
+  {
+    "title": "ping",
+    "desc": "Displays the latency of the bot.",
+    "cat": "info"
+  },
+  {
+    "title": "activity",
+    "desc": "Start the activity in voice channel.",
+    "cat": "fun"
+  },
+  {
+    "title": "announce",
+    "desc": "Toggle sending of now-playing messages.",
+    "cat": "admin"
+  },
+  {
+    "title": "language",
+    "desc": "Set the language of bot on your server.",
+    "cat": "admin"
+  },
+  {
+    "title": "purge",
+    "desc": "Clear messages.",
+    "cat": "admin"
+  },
+  {
+    "title": "8d",
+    "desc": "8D filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "bassboost",
+    "desc": "Bassboost filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "karaoke",
+    "desc": "Karaoke filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "nightcore",
+    "desc": "Nightcore filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "pitch",
+    "desc": "Adjust playing pitch.",
+    "cat": "filter"
+  },
+  {
+    "title": "pop",
+    "desc": "Pop filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "rate",
+    "desc": "Adjust playing rate.",
+    "cat": "filter"
+  },
+  {
+    "title": "reseteq",
+    "desc": "Reset the filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "soft",
+    "desc": "Soft filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "speed",
+    "desc": "Adjust playing speed.",
+    "cat": "filter"
+  },
+  {
+    "title": "treblebass",
+    "desc": "Treblebass filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "tremolo",
+    "desc": "Tremolo filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "vaporwave",
+    "desc": "Vaporwave filter.",
+    "cat": "filter"
+  },
+  {
+    "title": "vibrato",
+    "desc": "Vibrato filter.",
+    "cat": "filter"
+  }
+]
