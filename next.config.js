@@ -21,7 +21,7 @@ const nextConfig = {
       },
       {
         source: '/premium',
-        destination: 'https://www.patreon.com/ahnnee',
+        destination: 'https://www.patreon.com/sanamusicbot',
         permanent: true,
       },
     ]
