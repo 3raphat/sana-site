@@ -27,10 +27,6 @@ const TEAMS = [
         name: 'ahnneeya~',
         role: 'Support Lead',
       },
-      {
-        name: 'Music 🎵',
-        role: 'Make me happy :)',
-      },
     ],
   },
   {
@@ -39,15 +35,7 @@ const TEAMS = [
     member: [
       {
         name: 'ahnnee again',
-        role: 'Moderator, Support',
-      },
-      {
-        name: 'Ari>',
-        role: 'Moderator',
-      },
-      {
-        name: 'ยืด',
-        role: 'Support',
+        role: 'Developer, Moderator, Support',
       },
     ],
   },
